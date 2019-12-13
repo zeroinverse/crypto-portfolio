@@ -1,5 +1,7 @@
 # Manage your Cryptocurrency Portfolio
 
+Manage your Cryptocurrency Portfolio based on the amount of coins specified in a txt file.
+
 ### Final Output:
 ---
 
