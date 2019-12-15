@@ -1,6 +1,9 @@
 # Manage your Cryptocurrency Portfolio
 
-Manage your Cryptocurrency Portfolio based on the amount of coins specified in a txt file.
+Manage your Cryptocurrency Portfolio based on the amount of coins specified in a txt file.  
+Using APIs from coinmarketcap to get the latest updated related to different cryptocurrency and use the query results to build our portfolio.  
+BTW I do not own any cryptocurrency myself and am not interseted in acquiring any, it's just a small project I did for learning purposes.
+
 
 ### Final Output:
 ---
